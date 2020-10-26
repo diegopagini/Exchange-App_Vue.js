@@ -451,5 +451,6 @@ a40RvJYwtaAgBgYrq0jwWsSEBQURsbJNC177JZ9UUBAby5utwWvZoVpQYAOu4LVfgtSCAkuoD153
 ywapggKDWAhed7ZLiFpQYBdbKzPEvgwB/A80nu27a7ukjQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAx
 OS0wOS0yOVQwMDowNToxNiswMzowMFjwT8UAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTktMDktMjlU
 MDA6MDU6MTYrMDM6MDAprfd5AAAAAElFTkSuQmCC"
-    /></svg
-></template>
+    />
+  </svg>
+</template>
